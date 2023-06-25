@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Title: Codeup Data Science Somerville Cohort Experience
 ---
 
