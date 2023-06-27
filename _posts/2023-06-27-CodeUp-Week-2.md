@@ -3,7 +3,9 @@ title: "Unleashing the Power of MySQL: Week 2 at Code Up's Data Science Cohort"
 date: 2023-06-27
 ---
 
-## Hello everyone! I'm thrilled to share my experiences from the second week of my data science cohort at Code Up. This week, we dived headfirst into the fascinating world of MySQL, an essential tool for managing and analyzing vast amounts of data. Let's explore how we harnessed the power of MySQL Workbench, integrated it with other tools, and embarked on a journey of data discovery!
+## Hello everyone! 
+  
+  I'm thrilled to share my experiences from the second week of my data science cohort at Code Up. This week, we dived headfirst into the fascinating world of MySQL, an essential tool for managing and analyzing vast amounts of data. Let's explore how we harnessed the power of MySQL Workbench, integrated it with other tools, and embarked on a journey of data discovery!
 
 # Getting Started with MySQL
 
