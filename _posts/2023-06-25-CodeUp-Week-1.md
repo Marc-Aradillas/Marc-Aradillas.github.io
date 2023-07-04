@@ -1,17 +1,34 @@
 ---
-layout: Post
+layout: post
 title: "Codeup Data Science Somerville Cohort - Week 1"
 date: 2023-06-25
 ---
 
-# **Hello, Welcome to my first blog post!**
+# Hello, Welcome to my first blog post!
 
- My name is Marc Aradillas and I have successfully completed the first week at Codeup in the Data Science Cohort class. I have learned more deeply about the field of Data Science. It's fascinating to see what the career domain has in store for aspiring Data Scientist. Codeup has opened up many resources to utilize at our disposal to become successful in accomplishing our first week goals looking into career projections, data science roles, tools, presentations, and the Data Science pipeline!
+## Introduction
 
- I can honestly say it is amazing learning from two great instructors who are experienced and have successfully helped previous students who are now in successful careers as data analysts, data scientists, data engineers, or Machine Learning engineer. 
+My name is Marc Aradillas, and I have successfully completed the first week at Codeup in the Data Science Cohort class. This week has been an exciting journey into the world of Data Science, where I have gained a deeper understanding of the field and the opportunities it holds for aspiring Data Scientists. Codeup has provided us with a wealth of resources to help us succeed, including career projections, information about various data science roles, tools, presentations, and insights into the Data Science pipeline.
 
- The biggest takeaway from week one is the Data Science pipeline. I learned as a data scientist you begin with planning which entails wasking questions and understanding what objectives need to be met for certain problems. The following is Data Acquisition which is a process to retrieve and gatehr information by taking from databases, web scraping, or data importing. Preparation of the data acquired is the next step which involves data tidying, data cleansing, and data wrangling (Train, Validate, Test sets). After prep work comes exploratory data analysis (visualization, feature engineering, feature selection). EDA is the process in which we identify features that have the biggest impact on the target variable. Modeling is the process of utilizing tools like python and its libraries to build visualization or models to map between features and target outcomes. Finally, Delivery! This step in the DS pipeline is where you materialize what you have learned and create a visual or convey the results in a digestible manner to clients, stakeholders, etc. to drive results and solve problems.
+## Learning Experience
 
- In addition to the data science pipeline we also ended the week in diving into to some command line interface action using the terminal (zshell) to understand how to traverse our local computer file system without the use of a graphical user interface (GUI) or a mouse. The terminal is a powerful tool to learn to use by just using your keyboard commands in the command line one can automate, move, create a robust file system and use git actions to drive work flow with a repository on github.
+I feel privileged to learn from two experienced instructors who have helped numerous students succeed in their careers as data analysts, data scientists, data engineers, and Machine Learning engineers. Their expertise and guidance have been invaluable, and I am grateful for the opportunity to learn from them.
 
- As I reflect on the first week I feel as though I can begin calling myself a Data Scientist learning all this new material and applying practice and reading ahead in this course. I look forward to sharing my second full week and dive deep in MySQL and expand on the data science fundamentals.
+## Key Takeaway: The Data Science Pipeline
+
+The most significant takeaway from the first week is the Data Science pipeline. As a data scientist, the journey begins with planning, which involves asking relevant questions and understanding the objectives that need to be achieved for a given problem. Next comes Data Acquisition, where we retrieve and gather information from various sources such as databases, web scraping, or data importing.
+
+Once we have the data, we move on to Data Preparation, which includes tasks like tidying, cleansing, and wrangling the data into usable formats, including the creation of train, validate, and test sets. Following Data Preparation, we delve into Exploratory Data Analysis (EDA), where we visualize and analyze the data to gain insights, perform feature engineering, and select the most impactful features for modeling.
+
+Modeling is the process of leveraging tools like Python and its libraries to build models that map features to target outcomes. Finally, we reach the Delivery phase, where we materialize our findings and communicate the results in a clear and actionable manner to clients, stakeholders, and others involved, with the aim of driving results and solving problems.
+
+## Command Line Interface (CLI) and Terminal
+
+In addition to the Data Science pipeline, we also delved into the world of command line interfaces using the terminal (specifically zshell). Understanding how to navigate and interact with the file system using keyboard commands in the command line is a valuable skill. The terminal empowers us to automate tasks, create a robust file system, and use Git actions to streamline workflow with repositories on platforms like GitHub.
+
+## Conclusion
+
+As I reflect on the first week, I feel a sense of accomplishment and pride in calling myself a Data Scientist. The wealth of new material we have covered, coupled with hands-on practice and further readings, has given me the confidence to dive deeper into this course. I am excited to share my experiences from the second week, where we will explore MySQL and further expand on the foundations of Data Science.
+
+Stay tuned for more updates and insights from my data science journey!
+
