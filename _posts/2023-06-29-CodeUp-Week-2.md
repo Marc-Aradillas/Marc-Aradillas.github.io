@@ -6,7 +6,7 @@ date: 2023-07-03
 
 # Welcome back to my blog series documenting my journey through Code Up's Data Science Cohort!
 
-In this post, I will share my insights from the second week of the program, where we delved into primary indexes, primary keys, and JOINS in MySQL.
+In this post, I will share my insights from the second week of the program, where we delved into primary indexes, primary keys, and **JOINS** in MySQL.
 
 ## Primary Indexes and Primary Keys
 
@@ -18,7 +18,7 @@ Another crucial aspect of SQL that we explored was the proper usage of the WHERE
 
 ## Exploring Different Types of JOINS
 
-In the afternoon sessions, we ventured into the fascinating world of JOINS in MySQL. We discussed three commonly used types of JOINS: INNER JOIN, LEFT JOIN, and RIGHT JOIN. Each type serves a unique purpose in combining data from multiple tables. The INNER JOIN allows us to select records that have matching values in both tables being joined. The LEFT JOIN returns all records from the left table and the matching records from the right table. Similarly, the RIGHT JOIN returns all records from the right table and the matching records from the left table. We examined examples and compared the results obtained from each type of JOIN, gaining a comprehensive understanding of how they can be applied in various scenarios.
+In the afternoon sessions, we ventured into the fascinating world of JOINS in MySQL. We discussed three commonly used types of JOINS: INNER JOIN, LEFT JOIN, and RIGHT JOIN. Each type serves a unique purpose in combining data from multiple tables. The **INNER JOIN** allows us to select records that have matching values in both tables being joined. The LEFT JOIN returns all records from the left table and the matching records from the right table. Similarly, the **RIGHT JOIN** returns all records from the right table and the matching records from the left table. We examined examples and compared the results obtained from each type of **JOIN**, gaining a comprehensive understanding of how they can be applied in various scenarios.
 
 ## Bridging Tables with Multiple Joins
 
