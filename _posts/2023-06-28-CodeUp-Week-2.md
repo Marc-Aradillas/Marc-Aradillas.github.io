@@ -4,7 +4,7 @@ title: "Mastering MySQL Functions and Grouping Data: Week 2 at Code Up's Data Sc
 date: 2023-06-28
 ---
 
-## Hi Y'all!
+## **Hi Y'all!**
 
 Welcome back to my progress update on my second week at Code Up's data science cohort. This week, we dived deeper into MySQL and explored the world of numerical functions, string functions, casting, and advanced data grouping techniques. Let's delve into the exciting concepts we covered and the powerful functions we learned to wield in MySQL Workbench!
 
