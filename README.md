@@ -1,57 +1,56 @@
+<p align="center">
+<img src="https://github.com/Marc-Aradillas/Marc-Aradillas.github.io/assets/106922826/1e551bb7-750c-47cf-b043-9b0b57d58370" alt="farzad-p-xSl33Wxyc-unsplash" width="750" align="center" />
+<p/>
+
+
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+## :construction: Under Construction
 
-# GitHub Pages
+This readme file is currently under construction. Please check back later for updates.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
 
-</header>
+# :bar_chart: Data Science Codeup Cohort Blog
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+[Add a brief introduction or description of your blog and its purpose.]
 
-## Finish
+## :scroll: Table of Contents
 
-_Congratulations friend, you've completed this course!_
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+## :wave: Introduction
 
-Your blog is now live and has been deployed!
+[Provide an overview of your blog, including its purpose, target audience, and any specific topics or themes you will cover.]
+*This repo consists of my post, resource, image, and other reference files for my Github Pages blog.*
 
-Here's a recap of all the tasks you've accomplished in your repository:
+## :floppy_disk: Installation
 
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first a blog post with Jekyll!
+[If there are any specific installation steps or requirements to access your blog, explain them here. For example, if you're using a static site generator or hosting platform, provide instructions for setting it up locally or accessing the live site.]
 
-### What's next?
+## :computer: Usage
 
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+[Explain how to navigate and use your blog effectively. Provide guidance on how readers can explore your posts, search for specific topics, leave comments, or interact with any interactive elements you may have incorporated.]
 
-<footer>
+## :rocket: Technologies Used
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+[List the technologies, programming languages, frameworks, or tools you have used to develop your blog. For example, if you're using a specific blogging platform or content management system, mention it here. Also, if you have used any data science libraries or tools, mention them.]
 
----
+## :handshake: Contributing
 
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+[If you're open to contributions from others, outline the guidelines for contributing to your blog. For example, you can explain how readers can submit guest posts, suggest topics, or report issues.]
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## :page_facing_up: License
 
-</footer>
+[Specify the license under which your blog's content and code are released. If you're using an open-source license, mention its name and provide a link to the license file.]
+
+## :email: Contact
+
+[Include your contact information, such as your email address or social media handles, so that readers can reach out to you with questions or feedback.]
+
+
