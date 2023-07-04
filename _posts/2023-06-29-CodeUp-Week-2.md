@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 2 at Code Up's Data Science Cohort: Primary Indexes, Primary Keys, and JOINS in MySQL"
+title: Week 2 at Code Up's Data Science Cohort: Primary Indexes, Primary Keys, and JOINS in MySQL
 date: 2023-06-29
 ---
 
