@@ -32,7 +32,7 @@ One of the fundamental techniques for gaining insights from data is grouping dat
 
 ## **HAVING** Clause and Ordering Data
 
-To further refine our grouped data, we explored the **HAVING** clause. This clause allowed us to filter the results of our grouped data based on specific conditions. We could set criteria to include or exclude certain groups based on aggregate function results, enabling us to focus on the most relevant subsets of data. Additionally, we learned how to order our query results using the ORDER BY clause, specifying whether to sort in ascending (_ASC_) or descending (_DESC_) order. This helped us present our findings in a meaningful and organized manner.
+To further refine our grouped data, we explored the **HAVING** clause. This clause allowed us to filter the results of our grouped data based on specific conditions. We could set criteria to include or exclude certain groups based on aggregate function results, enabling us to focus on the most relevant subsets of data. Additionally, we learned how to order our query results using the **ORDER BY** clause, specifying whether to sort in ascending (_ASC_) or descending (_DESC_) order. This helped us present our findings in a meaningful and organized manner.
 
 ## Counting with **COUNT()** and Non-Null Values
 
