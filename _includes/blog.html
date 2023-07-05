@@ -1,4 +1,20 @@
+
 ---
+layout: default
+---
+
+# Welcome to My Blog
+
+I'm passionate about data science and sharing my experiences. Join me on this journey!
+
+## Blog
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+
+<!-- ---
 layout: default
 ---
 <h2>Blog</h2>
@@ -9,4 +25,4 @@ layout: default
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
-</ul>
+</ul> --!>
