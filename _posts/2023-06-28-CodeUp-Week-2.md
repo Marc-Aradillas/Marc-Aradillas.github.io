@@ -1,8 +1,9 @@
 ---
-layout: Post
+layout: post
 title: Mastering MySQL Functions and Grouping Data - Week 2 at Code Up's Data Science Cohort
 date: 2023-06-28
 ---
+
 
 # **Hi Y'all!**
 
