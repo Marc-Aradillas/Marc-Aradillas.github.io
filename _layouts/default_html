@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- head content -->
+  </head>
+  <body>
+    <!-- site header -->
+    
+    <main>
+      {{ content }}
+    </main>
+    
+    <!-- site footer -->
+  </body>
+</html>
