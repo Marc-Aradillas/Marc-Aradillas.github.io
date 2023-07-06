@@ -1,21 +1,17 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <!-- head content -->
-  </head>
-  <body>
-    <!-- site header -->
-    
-    <main>
-      {{ <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://blog.codeup.com/hs-fs/hubfs/OfficialCodeupLogoSmall.png?width=250&name=OfficialCodeupLogoSmall.png">
-     <source media="https://blog.codeup.com/hs-fs/hubfs/OfficialCodeupLogoSmall.png?width=250&name=OfficialCodeupLogoSmall.png">
-     <img alt="Code up banner" src="https://blog.codeup.com/hs-fs/hubfs/OfficialCodeupLogoSmall.png?width=250&name=OfficialCodeupLogoSmall.png">
-  </picture>
-
-**SOMERVILLE COHORT** }}
-    </main>
-    
-    <!-- site footer -->
-  </body>
+<head>
+  <title>Blog</title>
+</head>
+<body>
+  <h2>Blog</h2>
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+</body>
 </html>
