@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Codeup Data Science Somerville Cohort - Week 1
 date: 2023-06-25
 ---
