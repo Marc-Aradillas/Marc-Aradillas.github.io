@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Unleashing the Power of MySQL - Week 2 at Code Up's Data Science Cohort
 date: 2023-06-27
 ---
