@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Primary Indexes, Primary Keys, and JOINS in MySQL - Week 2 at Code Up's Data Science Cohort
 date: 2023-06-29
 ---
