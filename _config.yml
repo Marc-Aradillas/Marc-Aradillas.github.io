@@ -1,5 +1,5 @@
 --- 
-remote_theme: minima
+theme: minima
 title: Data Science Career Journey Blog
 author: Marc A. Aradillas
 description: Codeup Somerville Cohort experience (Lessons, Challenges, Solutions, Thoughts)
