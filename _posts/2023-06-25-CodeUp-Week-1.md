@@ -8,7 +8,7 @@ date: 2023-06-25
 
 ## Introduction
 
-My name is Marc Aradillas, and I have successfully completed the first week at Codeup in the Data Science Cohort class. This week has been an exciting journey into the world of Data Science, where I have gained a deeper understanding of the field and the opportunities it holds for aspiring Data Scientists. Codeup has provided us with a wealth of resources to help us succeed, including career projections, information about various data science roles, tools, presentations, and insights into the Data Science pipeline.
+My name is Marc Aradillas!, and I have successfully completed the first week at Codeup in the Data Science Cohort class. This week has been an exciting journey into the world of Data Science, where I have gained a deeper understanding of the field and the opportunities it holds for aspiring Data Scientists. Codeup has provided us with a wealth of resources to help us succeed, including career projections, information about various data science roles, tools, presentations, and insights into the Data Science pipeline.
 
 ## Learning Experience
 
